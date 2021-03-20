@@ -9,14 +9,9 @@
     <a href="#-como-baixar">Como baixar</a>
 </p>
 
-# 🔖 Sobre
+## ✍🏻 Conceitos
 
-Esse projeto tem como objetivo criar uma tabela e inserir paginação dentro dela.
-Foi criado para o vídeo <a href=" https://www.youtube.com/watch?v=Nc5uKCt9nhE&feature=youtu.be">sobre paginação </a>
-
-## ✍🏻 Conceitos ensinados
-
-Durante o desenvolvimento, foi ensinado sobre `styled components` para estilização de componentes, como realizar paginação no `frontend` e `axios` para acesso a API.
+Durante o desenvolvimento, foi aprendido sobre `styled components` para estilização de componentes, como realizar paginação no `frontend` e `axios` para acesso a API.
 
 ## 🗂 Material de apoio
 
@@ -30,7 +25,7 @@ Durante o desenvolvimento, foi ensinado sobre `styled components` para estiliza�
 ```bash
 
     // Clonar repositório
-    $ git clone https://github.com/danileao/pagination
+    $ git clone https://github.com/Wesleygmssa/pagination-table
 
     // Acessar diretório
     $ cd pagination
@@ -44,4 +39,4 @@ Durante o desenvolvimento, foi ensinado sobre `styled components` para estiliza�
 
 ---
 
-<h3 align="center">Desenvolvido por  💜  Daniele Leão Evangelista </h3>
+<h3 align="center">Desenvolvido por  💜 Wesley Guerra </h3>
